@@ -44,14 +44,14 @@ The rules are for texts in English, and most of their examples come from compute
 In a Claude Code session:
 
 ```
-/plugin marketplace add GITHUB-ACCOUNT/scientific-writing-review
+/plugin marketplace add shack/scientific-writing-review
 /plugin install scientific-writing-review@scientific-writing-review
 ```
 
 Or from a shell:
 
 ```bash
-claude plugin marketplace add GITHUB-ACCOUNT/scientific-writing-review
+claude plugin marketplace add shack/scientific-writing-review
 claude plugin install scientific-writing-review@scientific-writing-review
 ```
 
